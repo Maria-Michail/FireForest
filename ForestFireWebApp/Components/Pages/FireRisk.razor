@@ -1,0 +1,57 @@
+﻿@page "/fire-risk"
+@inject HttpClient Http
+@rendermode InteractiveServer
+
+<h3>Forest Fire Risk Prediction</h3>
+
+<div class="input-container">
+    <label for="state">Select or Enter a State:</label>
+    <input list="states" @bind="SelectedState" placeholder="Type or select a state..." />
+    <datalist id="states">
+        @foreach (var state in States)
+        {
+            <option value="@state"></option>
+        }
+    </datalist>
+    <button @onclick="GetFireRisk">Get Prediction</button>
+</div>
+
+@if (Predictions.Any())
+{
+    <h4>Fire Risk Predictions for @SelectedState</h4>
+    <div class="forecast-container">
+        <div class="forecast-row">
+            @foreach (var prediction in Predictions)
+            {
+                <div class="forecast-cell date">@prediction.Key</div>
+            }
+        </div>
+        <div class="forecast-row">
+            @foreach (var prediction in Predictions)
+            {
+                <div class="forecast-cell risk">@prediction.Value.ToString("P1")</div>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    private List<string> States = new();
+    private string SelectedState = string.Empty;
+    private Dictionary<string, float> Predictions = new();
+    private readonly string BaseUrl = "https://localhost:7200";
+
+    protected override async Task OnInitializedAsync()
+    {
+        States = await Http.GetFromJsonAsync<List<string>>($"{BaseUrl}/api/states");
+    }
+
+    private async Task GetFireRisk()
+    {
+        Console.WriteLine("Button clicked!");
+        if (!string.IsNullOrWhiteSpace(SelectedState))
+        {
+            Predictions = await Http.GetFromJsonAsync<Dictionary<string, float>>($"{BaseUrl}/api/weather/{SelectedState}");
+        }
+    }
+}

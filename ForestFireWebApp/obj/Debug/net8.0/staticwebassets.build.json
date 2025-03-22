@@ -1,0 +1,859 @@
+{
+  "Version": 1,
+  "Hash": "XHxZAZm3Tler1LHzl8PAKeBOBqTmhESRJljK6OSCthI=",
+  "Source": "ForestFireWebApp",
+  "BasePath": "_content/ForestFireWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ForestFireWebApp\\wwwroot",
+      "Source": "ForestFireWebApp",
+      "ContentRoot": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\",
+      "BasePath": "_content/ForestFireWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\maria\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.css",
+      "SourceId": "Blazored.Typeahead",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\maria\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Typeahead",
+      "RelativePath": "blazored-typeahead.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vy4gn6vj78",
+      "Integrity": "J3yBtIuvF38lccTVcUS7ScUgk93ATgKN6kbpbFM9JA0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\maria\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.css"
+    },
+    {
+      "Identity": "C:\\Users\\maria\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.js",
+      "SourceId": "Blazored.Typeahead",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\maria\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Typeahead",
+      "RelativePath": "blazored-typeahead.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uv12w7whvw",
+      "Integrity": "ClIzMmBI5Nozgt7KRG3K3u45r2pMtn/X9Vx2UeudOPU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\maria\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.js"
+    },
+    {
+      "Identity": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ForestFireWebApp.styles.css",
+      "SourceId": "ForestFireWebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ForestFireWebApp",
+      "RelativePath": "ForestFireWebApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "fpdxe0wsmo",
+      "Integrity": "o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ForestFireWebApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ForestFireWebApp.bundle.scp.css",
+      "SourceId": "ForestFireWebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ForestFireWebApp",
+      "RelativePath": "ForestFireWebApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "fpdxe0wsmo",
+      "Integrity": "o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ForestFireWebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\app.css",
+      "SourceId": "ForestFireWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\",
+      "BasePath": "_content/ForestFireWebApp",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "ForestFireWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\",
+      "BasePath": "_content/ForestFireWebApp",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "ForestFireWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\",
+      "BasePath": "_content/ForestFireWebApp",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\css\\site.css",
+      "SourceId": "ForestFireWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\",
+      "BasePath": "_content/ForestFireWebApp",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "58u4xtcdb0",
+      "Integrity": "+zhxjoAeM9v4HPe2o7SnmVLHBHcoxp5yxJ/hwC5LaN8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\favicon.png",
+      "SourceId": "ForestFireWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\",
+      "BasePath": "_content/ForestFireWebApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/Blazored.Typeahead/blazored-typeahead.css",
+      "AssetFile": "C:\\Users\\maria\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J3yBtIuvF38lccTVcUS7ScUgk93ATgKN6kbpbFM9JA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Jul 2022 07:37:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J3yBtIuvF38lccTVcUS7ScUgk93ATgKN6kbpbFM9JA0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazored.Typeahead/blazored-typeahead.js",
+      "AssetFile": "C:\\Users\\maria\\.nuget\\packages\\blazored.typeahead\\4.7.0\\staticwebassets\\blazored-typeahead.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ClIzMmBI5Nozgt7KRG3K3u45r2pMtn/X9Vx2UeudOPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Jul 2022 07:37:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ClIzMmBI5Nozgt7KRG3K3u45r2pMtn/X9Vx2UeudOPU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:13:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:13:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:13:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:13:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:13:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:13:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.58u4xtcdb0.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+zhxjoAeM9v4HPe2o7SnmVLHBHcoxp5yxJ/hwC5LaN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 16:15:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58u4xtcdb0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+zhxjoAeM9v4HPe2o7SnmVLHBHcoxp5yxJ/hwC5LaN8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+zhxjoAeM9v4HPe2o7SnmVLHBHcoxp5yxJ/hwC5LaN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 16:15:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+zhxjoAeM9v4HPe2o7SnmVLHBHcoxp5yxJ/hwC5LaN8="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:13:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:13:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "ForestFireWebApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ForestFireWebApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 15:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE="
+        }
+      ]
+    },
+    {
+      "Route": "ForestFireWebApp.fpdxe0wsmo.bundle.scp.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ForestFireWebApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 15:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpdxe0wsmo"
+        },
+        {
+          "Name": "label",
+          "Value": "ForestFireWebApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE="
+        }
+      ]
+    },
+    {
+      "Route": "ForestFireWebApp.fpdxe0wsmo.styles.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ForestFireWebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 15:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpdxe0wsmo"
+        },
+        {
+          "Name": "label",
+          "Value": "ForestFireWebApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE="
+        }
+      ]
+    },
+    {
+      "Route": "ForestFireWebApp.styles.css",
+      "AssetFile": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ForestFireWebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 15:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o5EVg1RvgPkqx1aGEsySm6ThZgqOMrTVzSPn1bTLCZE="
+        }
+      ]
+    }
+  ]
+}

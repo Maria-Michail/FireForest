@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ForestFireWebApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ForestFireApi\\ForestFireApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
