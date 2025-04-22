@@ -1,6 +1,7 @@
 using ForestFireWebApp.Components;
 using ForestFireWebApp.Components.Account;
 using ForestFireWebApp.Data;
+using ForestFireWebApp.Services;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -28,17 +29,20 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
+builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddSignInManager()
     .AddDefaultTokenProviders();
 
 builder.Services.AddSingleton<IEmailSender<ApplicationUser>, IdentityNoOpEmailSender>();
 
+builder.Services.AddScoped<IWeatherService, WeatherService>();
+builder.Services.AddScoped<FireRiskService>();
 builder.Services.AddHttpClient();
-builder.Services.AddScoped<HttpClient>(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7200") });
 
 var app = builder.Build();
+
+await ApplicationDbContext.SeedTestUserAsync(app.Services);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

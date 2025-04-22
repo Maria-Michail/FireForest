@@ -1,0 +1,59 @@
+﻿@using ForestFireWebApp.Models
+@using ForestFireWebApp.Services
+@inject FireRiskService FireRiskService
+
+@if (IsLoading)
+{
+    <div class="text-muted">Loading fire risk data for @State...</div>
+}
+else if (Predictions == null || !Predictions.Any())
+{
+    <div class="text-warning">No forecast data available for @State.</div>
+}
+else
+{
+    <div class="forecast-container">
+        <table class="forecast-table">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Risk Level</th>
+                    <th>Probability (%)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var prediction in Predictions)
+                {
+                    <tr>
+                        <td>@prediction.Date</td>
+                        <td class="@GetRiskClass(prediction.RiskLevel)">@prediction.RiskLevel</td>
+                        <td>@prediction.Probability.ToString("F1")%</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@code {
+    [Parameter] public string State { get; set; } = default!;
+
+    private List<FireRiskResult> Predictions = new();
+    private bool IsLoading = true;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        Predictions = await FireRiskService.GetFireRiskAsync(State);
+        IsLoading = false;
+    }
+
+    private string GetRiskClass(string risk) => risk switch
+    {
+        "High Risk" => "high-risk",
+        "Medium Risk" => "medium-risk",
+        "Low Risk" => "low-risk",
+        "No Fire" => "no-fire",
+        _ => string.Empty
+    };
+}

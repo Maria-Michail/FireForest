@@ -7,13 +7,14 @@
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\maria\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.12.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.12.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\maria\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.ml\4.0.2\build\netstandard2.0\Microsoft.ML.props" Condition="Exists('$(NuGetPackageRoot)microsoft.ml\4.0.2\build\netstandard2.0\Microsoft.ML.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.11\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.11\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\8.0.11\build\net8.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\8.0.11\build\net8.0\Microsoft.EntityFrameworkCore.Design.props')" />
     <Import Project="$(NuGetPackageRoot)blazored.typeahead\4.7.0\buildTransitive\Blazored.Typeahead.props" Condition="Exists('$(NuGetPackageRoot)blazored.typeahead\4.7.0\buildTransitive\Blazored.Typeahead.props')" />

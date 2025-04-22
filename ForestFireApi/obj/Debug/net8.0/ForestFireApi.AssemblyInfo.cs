@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForestFireApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e05ea94699d85aee831a69222905044b51e44aef")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForestFireApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForestFireApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

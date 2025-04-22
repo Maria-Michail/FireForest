@@ -1,8 +1,10 @@
-﻿namespace ForestFireApi.Services.Weather
+﻿using ForestFireApi.Models;
+
+namespace ForestFireApi.Services.Weather
 {
     public interface IWeatherService
     {
         List<string> GetStates();
-        Task<Dictionary<string, float>> GetWeatherAndFirePredictionAsync(string state);
+        Task<List<FireRiskResult>> GetWeatherAndFirePredictionAsync(string state);
     }
 }

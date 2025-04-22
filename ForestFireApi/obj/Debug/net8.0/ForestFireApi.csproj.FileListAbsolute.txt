@@ -61,3 +61,4 @@ C:\Users\maria\Desktop\ForestFire\Code\ForestFireApi\bin\Debug\net8.0\runtimes\w
 C:\Users\maria\Desktop\ForestFire\Code\ForestFireApi\bin\Debug\net8.0\Google.Protobuf.dll
 C:\Users\maria\Desktop\ForestFire\Code\ForestFireApi\bin\Debug\net8.0\Microsoft.ML.OnnxRuntime.dll
 C:\Users\maria\Desktop\ForestFire\Code\ForestFireApi\bin\Debug\net8.0\Microsoft.ML.OnnxTransformer.dll
+C:\Users\maria\Desktop\ForestFire\Code\ForestFireApi\obj\Debug\net8.0\ForestFireApi.sourcelink.json

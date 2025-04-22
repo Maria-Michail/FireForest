@@ -24,26 +24,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEFjY2Vzc0RlbmllZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/ConfirmEmail.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXENvbmZpcm1FbWFpbC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/ConfirmEmailChange.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXENvbmZpcm1FbWFpbENoYW5nZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/ExternalLogin.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEV4dGVybmFsTG9naW4ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/ForgotPassword.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEZvcmdvdFBhc3N3b3JkLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/ForgotPasswordConfirmation.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEZvcmdvdFBhc3N3b3JkQ29uZmlybWF0aW9uLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/InvalidPasswordReset.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEludmFsaWRQYXNzd29yZFJlc2V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -58,14 +38,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXExvZ2luLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/LoginWith2fa.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXExvZ2luV2l0aDJmYS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/LoginWithRecoveryCode.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXExvZ2luV2l0aFJlY292ZXJ5Q29kZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/Manage/ChangePassword.razor]
@@ -112,24 +84,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxTZXRQYXNzd29yZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/Manage/TwoFactorAuthentication.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxUd29GYWN0b3JBdXRoZW50aWNhdGlvbi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/Manage/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXFJlZ2lzdGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/RegisterConfirmation.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXFJlZ2lzdGVyQ29uZmlybWF0aW9uLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/ResendEmailConfirmation.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXFJlc2VuZEVtYWlsQ29uZmlybWF0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Pages/ResetPassword.razor]
@@ -146,10 +106,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Shared/AccountLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFNoYXJlZFxBY2NvdW50TGF5b3V0LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Shared/ExternalLoginPicker.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFNoYXJlZFxFeHRlcm5hbExvZ2luUGlja2VyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Account/Shared/ManageLayout.razor]
@@ -180,8 +136,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Pages/Components/ForecastTable.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21wb25lbnRzXEZvcmVjYXN0VGFibGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Pages/Components/StateSelectionModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21wb25lbnRzXFN0YXRlU2VsZWN0aW9uTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEYXNoYm9hcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Pages/Error.razor]
@@ -194,10 +158,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/maria/Desktop/ForestFire/Code/ForestFireWebApp/Components/Routes.razor]

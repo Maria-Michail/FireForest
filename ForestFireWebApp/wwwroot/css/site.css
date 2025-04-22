@@ -1,39 +1,106 @@
 ﻿.input-container {
     display: flex;
-    flex-direction: column;
+    align-items: center;
     gap: 10px;
     margin-bottom: 20px;
 }
 
+select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.predict-button {
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .predict-button:disabled {
+        background-color: #cccccc;
+        cursor: not-allowed;
+    }
+
+    .predict-button:hover:not(:disabled) {
+        background-color: #45a049;
+    }
+
 .forecast-container {
-    display: flex;
-    flex-direction: column;
-    border: 2px solid #ddd;
+    margin-top: 20px;
+    border: 1px solid #ddd;
     border-radius: 8px;
     padding: 10px;
-    max-width: 600px;
+    max-width: 650px;
+    background: #fdfdfd;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.forecast-table {
+    width: 100%;
+    border-collapse: collapse;
     text-align: center;
-    background: #f9f9f9;
 }
 
-.forecast-row {
-    display: flex;
-    justify-content: space-around;
-    font-weight: bold;
-}
+    .forecast-table th, .forecast-table td {
+        padding: 12px;
+        border-bottom: 1px solid #ddd;
+    }
 
-.forecast-cell {
-    flex: 1;
-    padding: 10px;
-    border-bottom: 1px solid #ddd;
-}
-
-.date {
-    background-color: #dbeafe;
-    color: #1e40af;
-}
-
-.risk {
-    background-color: #fee2e2;
+.high-risk {
     color: #b91c1c;
+    font-weight: bold;
+    background-color: #fee2e2;
+}
+
+.medium-risk {
+    color: #d97706;
+    font-weight: bold;
+    background-color: #fef3c7;
+}
+
+.low-risk {
+    color: #047857;
+    background-color: #d1fae5;
+}
+
+.no-fire {
+    color: #065f46;
+    background-color: #ecfdf5;
+}
+
+.modal {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    border-radius: 10px;
+}
+
+.forecast-table {
+    font-size: 0.9rem;
+}
+
+    .forecast-table td, .forecast-table th {
+        vertical-align: middle;
+    }
+
+.text-danger {
+    color: #dc3545 !important;
+}
+
+.text-warning {
+    color: #ffc107 !important;
+}
+
+.text-success {
+    color: #28a745 !important;
+}
+
+.text-muted {
+    color: #6c757d !important;
 }

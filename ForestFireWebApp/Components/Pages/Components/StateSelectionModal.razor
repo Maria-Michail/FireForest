@@ -1,0 +1,56 @@
+﻿@if (IsOpen)
+{
+    <div class="modal-backdrop fade show"></div>
+    <div class="modal fade show d-block" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Manage Saved States</h5>
+                    <button type="button" class="btn-close" @onclick="OnClose" />
+                </div>
+                <div class="modal-body">
+                    @foreach (var state in AllStates)
+                    {
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" id="@state"
+                                   @onchange="() => ToggleState(state)" checked="@TempStates.Contains(state)" />
+                            <label class="form-check-label" for="@state">@state</label>
+                        </div>
+                    }
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" @onclick="OnClose">Cancel</button>
+                    <button class="btn btn-primary" @onclick="Save">Save Changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public bool IsOpen { get; set; }
+    [Parameter] public List<string> AllStates { get; set; } = new();
+    [Parameter] public List<string> SelectedStates { get; set; } = new();
+    [Parameter] public EventCallback OnClose { get; set; }
+    [Parameter] public EventCallback<List<string>> OnSave { get; set; }
+
+    private List<string> TempStates = new();
+
+    protected override void OnParametersSet()
+    {
+        TempStates = new List<string>(SelectedStates);
+    }
+
+    private void ToggleState(string state)
+    {
+        if (TempStates.Contains(state))
+            TempStates.Remove(state);
+        else
+            TempStates.Add(state);
+    }
+
+    private async Task Save()
+    {
+        await OnSave.InvokeAsync(TempStates);
+    }
+}

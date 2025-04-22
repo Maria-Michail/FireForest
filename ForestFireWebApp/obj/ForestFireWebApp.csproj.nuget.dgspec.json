@@ -69,6 +69,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.ML.OnnxTransformer": {
+              "target": "Package",
+              "version": "[4.0.2, )"
             }
           },
           "imports": [
