@@ -15,11 +15,11 @@ namespace ForestFireWebApp.Data
 
             builder.Entity<UserPreference>()
                 .HasIndex(p => new { p.UserId, p.State })
-                .IsUnique(); // Prevent duplicate state entries per user
+                .IsUnique();
 
             builder.Entity<UserPreference>()
                 .HasOne(p => p.User)
-                .WithMany() // or WithMany(u => u.Preferences) if you add a nav prop to ApplicationUser
+                .WithMany()
                 .HasForeignKey(p => p.UserId);
         }
 
@@ -29,7 +29,7 @@ namespace ForestFireWebApp.Data
             var userManager = scope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
 
             var testUserName = "testuser";
-            var testPassword = "Test@123"; // Meets password requirements
+            var testPassword = "Test@123";
 
             var existingUser = await userManager.FindByNameAsync(testUserName);
             if (existingUser == null)

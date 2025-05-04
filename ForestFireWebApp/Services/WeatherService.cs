@@ -1,4 +1,5 @@
-﻿using ForestFireWebApp.Models;
+﻿using System.Net.Http;
+using ForestFireWebApp.Models;
 using Microsoft.ML;
 using Newtonsoft.Json;
 
@@ -6,7 +7,8 @@ namespace ForestFireWebApp.Services;
 public class WeatherService : IWeatherService
 {
     private readonly string _apiKey;
-    private readonly PredictionEngine<ForestFireInput, ForestFirePrediction> _predictionEngine;
+    private readonly IFireRiskOnnxPredictor _predictor;
+    private readonly HttpClient _httpClient;
 
     private static readonly Dictionary<string, (double, double)> StateCoordinates = new()
     {
@@ -35,21 +37,11 @@ public class WeatherService : IWeatherService
         { "Santa Catarina", 23 }, { "Sao Paulo", 24 }, { "Sergipe", 25 }, { "Tocantins", 26 }
     };
 
-    public WeatherService(IConfiguration configuration)
+    public WeatherService(IConfiguration configuration, IFireRiskOnnxPredictor predictor, HttpClient httpClient)
     {
         _apiKey = configuration["OpenWeather:ApiKey"];
-        var mlContext = new MLContext();
-        var modelPath = Path.Combine(Directory.GetCurrentDirectory(), "MLModels", "fire_risk.onnx");
-        var pipeline = mlContext.Transforms.ApplyOnnxModel(
-            modelFile: modelPath,
-            inputColumnNames: new[] { "float_input" },
-            outputColumnNames: new[] { "variable" }
-        );
-
-        var emptyData = mlContext.Data.LoadFromEnumerable(new List<ForestFireInput>());
-        var model = pipeline.Fit(emptyData);
-
-        _predictionEngine = mlContext.Model.CreatePredictionEngine<ForestFireInput, ForestFirePrediction>(model);
+        _predictor = predictor;
+        _httpClient = httpClient;
     }
 
     public Task<List<string>> GetStatesAsync() =>
@@ -64,8 +56,7 @@ public class WeatherService : IWeatherService
 
         string url = $"https://api.openweathermap.org/data/2.5/forecast?lat={coordinates.Item1}&lon={coordinates.Item2}&units=metric&appid={_apiKey}";
 
-        using HttpClient client = new();
-        HttpResponseMessage response = await client.GetAsync(url);
+        HttpResponseMessage response = await _httpClient.GetAsync(url);
         if (!response.IsSuccessStatusCode)
             return null;
 
@@ -112,16 +103,24 @@ public class WeatherService : IWeatherService
                 }
             };
 
-            var prediction = _predictionEngine.Predict(input);
-            float predictedFires = prediction.PredictedFires[0];
-
-            float probability = Math.Min(100f, (predictedFires / 150f) * 100f);
-
-            string riskLevel = probability switch
+            float predictedFires = _predictor.Predict(new float[]
             {
-                <= 25 => "No Fire",
+                month,
+                tempMax,
+                tempMin,
+                humMax,
+                humMin,
+                windMax,
+                stateEncoded
+            });
+
+            float probability = Math.Clamp((float)(Math.Log10(predictedFires + 1) / 3) * 100f, 0f, 100f);
+
+            string riskLevel = predictedFires switch
+            {
+                <= 10 => "No Fire",
                 <= 50 => "Low Risk",
-                <= 75 => "Medium Risk",
+                <= 200 => "Medium Risk",
                 _ => "High Risk"
             };
 

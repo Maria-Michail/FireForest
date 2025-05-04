@@ -5,6 +5,11 @@ VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestFireWebApp", "ForestFireWebApp.csproj", "{1BC075A7-21A4-4350-ACDD-87984E66590E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestFireTest", "..\ForestFireTest\ForestFireTest.csproj", "{C0EAAA8D-17A8-42F7-97D4-59244FBA0DC9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1BC075A7-21A4-4350-ACDD-87984E66590E} = {1BC075A7-21A4-4350-ACDD-87984E66590E}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +20,10 @@ Global
 		{1BC075A7-21A4-4350-ACDD-87984E66590E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BC075A7-21A4-4350-ACDD-87984E66590E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BC075A7-21A4-4350-ACDD-87984E66590E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0EAAA8D-17A8-42F7-97D4-59244FBA0DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EAAA8D-17A8-42F7-97D4-59244FBA0DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EAAA8D-17A8-42F7-97D4-59244FBA0DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EAAA8D-17A8-42F7-97D4-59244FBA0DC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

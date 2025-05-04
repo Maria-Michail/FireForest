@@ -3,52 +3,146 @@
   "WorkspaceRootPath": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0EAAA8D-17A8-42F7-97D4-59244FBA0DC9}|..\\ForestFireTest\\ForestFireTest.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfiretest\\weatherservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\services\\fireriskonnxpredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:services\\fireriskonnxpredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\services\\ifireriskonnxpredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:services\\ifireriskonnxpredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EAAA8D-17A8-42F7-97D4-59244FBA0DC9}|..\\ForestFireTest\\ForestFireTest.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfiretest\\forestfiretest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\forestfirewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:forestfirewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\services\\fireriskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:services\\fireriskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\pages\\resetpasswordconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\pages\\resetpasswordconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\pages\\firerisk.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\pages\\firerisk.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\pages\\firerisk.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\pages\\firerisk.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\pages\\firerisk.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\pages\\firerisk.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\identityrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\identityrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\pages\\firerisk.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\pages\\firerisk.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\models\\userpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:models\\userpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\models\\forestfireinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:models\\forestfireinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\models\\fireriskresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:models\\fireriskresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\models\\dailyweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:models\\dailyweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|c:\\users\\maria\\desktop\\forestfire\\code\\forestfirewebapp\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC075A7-21A4-4350-ACDD-87984E66590E}|ForestFireWebApp.csproj|solutionrelative:components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,24 +152,440 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FireRiskOnnxPredictor.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\FireRiskOnnxPredictor.cs",
+              "RelativeDocumentMoniker": "Services\\FireRiskOnnxPredictor.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\FireRiskOnnxPredictor.cs",
+              "RelativeToolTip": "Services\\FireRiskOnnxPredictor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:47:54.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Services\\WeatherService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:50:11.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WeatherServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireTest\\WeatherServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\ForestFireTest\\WeatherServiceTests.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireTest\\WeatherServiceTests.cs",
+              "RelativeToolTip": "..\\ForestFireTest\\WeatherServiceTests.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:32:40.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAnwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:26:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DailyWeather.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\DailyWeather.cs",
+              "RelativeDocumentMoniker": "Models\\DailyWeather.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\DailyWeather.cs",
+              "RelativeToolTip": "Models\\DailyWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:30:20.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "Services\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:30:34.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:49:34.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFireRiskOnnxPredictor.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\IFireRiskOnnxPredictor.cs",
+              "RelativeDocumentMoniker": "Services\\IFireRiskOnnxPredictor.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\IFireRiskOnnxPredictor.cs",
+              "RelativeToolTip": "Services\\IFireRiskOnnxPredictor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:48:04.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForestFireTest",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireTest\\ForestFireTest.csproj",
+              "RelativeDocumentMoniker": "..\\ForestFireTest\\ForestFireTest.csproj",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireTest\\ForestFireTest.csproj",
+              "RelativeToolTip": "..\\ForestFireTest\\ForestFireTest.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T12:36:29.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForestFireWebApp",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\ForestFireWebApp.csproj",
+              "RelativeDocumentMoniker": "ForestFireWebApp.csproj",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\ForestFireWebApp.csproj",
+              "RelativeToolTip": "ForestFireWebApp.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T12:40:39.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPasswordConfirmation.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Pages\\ResetPasswordConfirmation.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\ResetPasswordConfirmation.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Pages\\ResetPasswordConfirmation.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\ResetPasswordConfirmation.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T10:08:33.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:10:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageNavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T10:00:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T09:45:11.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "Components\\Pages\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T14:51:16.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T19:56:06.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FireRisk.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\FireRisk.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\FireRisk.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\FireRisk.razor",
+              "RelativeToolTip": "Components\\Pages\\FireRisk.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:49:55.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FireRisk.razor.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\FireRisk.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\FireRisk.razor.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\FireRisk.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\FireRisk.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:49:59.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FireRiskService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\FireRiskService.cs",
+              "RelativeDocumentMoniker": "Services\\FireRiskService.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Services\\FireRiskService.cs",
+              "RelativeToolTip": "Services\\FireRiskService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:50:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Email.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\Email.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\Email.razor",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T09:50:08.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResetPassword.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Pages\\ResetPassword.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\ResetPassword.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Pages\\ResetPassword.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\ResetPassword.razor",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T10:05:39.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-03T18:19:33.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IdentityRevalidatingAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:50:12.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Auth.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Auth.razor",
+              "RelativeToolTip": "Components\\Pages\\Auth.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T09:58:00.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T10:28:05.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IdentityUserAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\IdentityUserAccessor.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityUserAccessor.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\IdentityUserAccessor.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityUserAccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:49:09.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:49:19.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FireRiskResult.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\FireRiskResult.cs",
+              "RelativeDocumentMoniker": "Models\\FireRiskResult.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\FireRiskResult.cs",
+              "RelativeToolTip": "Models\\FireRiskResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:30:21.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T17:42:55.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 29,
+              "Title": "ForestFireInput.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\ForestFireInput.cs",
+              "RelativeDocumentMoniker": "Models\\ForestFireInput.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\ForestFireInput.cs",
+              "RelativeToolTip": "Models\\ForestFireInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:30:23.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Dashboard.razor.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Dashboard.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Dashboard.razor.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Dashboard.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Dashboard.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:25:16.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T14:30:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserPreference.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\UserPreference.cs",
+              "RelativeDocumentMoniker": "Models\\UserPreference.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\UserPreference.cs",
+              "RelativeToolTip": "Models\\UserPreference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:15:01.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "NavMenu.razor.css",
               "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Layout\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor.css",
@@ -88,97 +598,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FireRisk.razor",
-              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\FireRisk.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\FireRisk.razor",
-              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\FireRisk.razor",
-              "RelativeToolTip": "Components\\Pages\\FireRisk.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T16:49:55.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Dashboard.razor.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Dashboard.razor.cs",
-              "RelativeDocumentMoniker": "Components\\Pages\\Dashboard.razor.cs",
-              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Dashboard.razor.cs",
-              "RelativeToolTip": "Components\\Pages\\Dashboard.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T09:25:16.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dashboard.razor",
-              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Dashboard.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Dashboard.razor",
-              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Dashboard.razor",
-              "RelativeToolTip": "Components\\Pages\\Dashboard.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T14:51:16.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T10:00:22.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FireRisk.razor.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\FireRisk.razor.cs",
-              "RelativeDocumentMoniker": "Components\\Pages\\FireRisk.razor.cs",
-              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\FireRisk.razor.cs",
-              "RelativeToolTip": "Components\\Pages\\FireRisk.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T16:49:59.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 34,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-04-19T10:48:26.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ManageNavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Shared\\ManageNavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageNavMenu.razor",
-              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Shared\\ManageNavMenu.razor",
-              "RelativeToolTip": "Components\\Account\\Shared\\ManageNavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T10:00:28.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 35,
               "Title": "ManageLayout.razor",
               "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Account\\Shared\\ManageLayout.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageLayout.razor",
@@ -186,31 +619,8 @@
               "RelativeToolTip": "Components\\Account\\Shared\\ManageLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T09:59:30.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Auth.razor",
-              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Auth.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Auth.razor",
-              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Components\\Pages\\Auth.razor",
-              "RelativeToolTip": "Components\\Pages\\Auth.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T09:58:00.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserPreference.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\UserPreference.cs",
-              "RelativeDocumentMoniker": "Models\\UserPreference.cs",
-              "ToolTip": "C:\\Users\\maria\\Desktop\\ForestFire\\Code\\ForestFireWebApp\\Models\\UserPreference.cs",
-              "RelativeToolTip": "Models\\UserPreference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T09:15:01.397Z"
+              "WhenOpened": "2025-04-19T09:59:30.316Z",
+              "EditorCaption": ""
             }
           ]
         }

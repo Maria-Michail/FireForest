@@ -37,6 +37,7 @@ builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.Requ
 builder.Services.AddSingleton<IEmailSender<ApplicationUser>, IdentityNoOpEmailSender>();
 
 builder.Services.AddScoped<IWeatherService, WeatherService>();
+builder.Services.AddScoped<IFireRiskOnnxPredictor, FireRiskOnnxPredictor>();
 builder.Services.AddScoped<FireRiskService>();
 builder.Services.AddHttpClient();
 

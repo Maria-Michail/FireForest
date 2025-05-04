@@ -17,4 +17,10 @@
     <PackageReference Include="Microsoft.ML.OnnxTransformer" Version="4.0.2" />
   </ItemGroup>
 
+	<ItemGroup>
+		<None Update="MLModels\fire_risk.onnx">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
 </Project>
